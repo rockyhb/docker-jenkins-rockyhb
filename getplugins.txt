@@ -1,0 +1,6 @@
+#
+
+# curl 'http://192.168.1.1:18080/pluginManager/api/json?pretty=true&depth=1&tree=plugins[shortName,version]'
+
+grep -E "shortName|version" plugins.url | cut -d: -f 2 | cut -d'"' -f 2 | while read f; do read v; echo $f:$v; done | sort > plugins.txt
+

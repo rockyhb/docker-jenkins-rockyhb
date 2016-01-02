@@ -1,0 +1,284 @@
+{
+  "plugins" : [
+    {
+      "shortName" : "ant",
+      "version" : "1.2"
+    },
+    {
+      "shortName" : "credentials",
+      "version" : "1.24"
+    },
+    {
+      "shortName" : "subversion",
+      "version" : "2.5.6"
+    },
+    {
+      "shortName" : "script-security",
+      "version" : "1.15"
+    },
+    {
+      "shortName" : "windows-slaves",
+      "version" : "1.1"
+    },
+    {
+      "shortName" : "ssh-credentials",
+      "version" : "1.11"
+    },
+    {
+      "shortName" : "ldap",
+      "version" : "1.11"
+    },
+    {
+      "shortName" : "poll-mailbox-trigger-plugin",
+      "version" : "1.019"
+    },
+    {
+      "shortName" : "mapdb-api",
+      "version" : "1.0.6.0"
+    },
+    {
+      "shortName" : "envinject",
+      "version" : "1.92.1"
+    },
+    {
+      "shortName" : "groovy-postbuild",
+      "version" : "2.3"
+    },
+    {
+      "shortName" : "gitlab-plugin",
+      "version" : "1.1.28"
+    },
+    {
+      "shortName" : "git-client",
+      "version" : "1.19.1"
+    },
+    {
+      "shortName" : "gitlab-logo",
+      "version" : "1.0.1"
+    },
+    {
+      "shortName" : "github",
+      "version" : "1.14.2"
+    },
+    {
+      "shortName" : "gitlab-merge-request-jenkins",
+      "version" : "2.0.0"
+    },
+    {
+      "shortName" : "ssh-agent",
+      "version" : "1.9"
+    },
+    {
+      "shortName" : "plain-credentials",
+      "version" : "1.1"
+    },
+    {
+      "shortName" : "ghprb",
+      "version" : "1.29.7"
+    },
+    {
+      "shortName" : "ansicolor",
+      "version" : "0.4.2"
+    },
+    {
+      "shortName" : "changes-since-last-success",
+      "version" : "0.5"
+    },
+    {
+      "shortName" : "custom-job-icon",
+      "version" : "0.2"
+    },
+    {
+      "shortName" : "workflow-scm-step",
+      "version" : "1.12"
+    },
+    {
+      "shortName" : "workflow-job",
+      "version" : "1.12"
+    },
+    {
+      "shortName" : "workflow-basic-steps",
+      "version" : "1.12"
+    },
+    {
+      "shortName" : "workflow-aggregator",
+      "version" : "1.12"
+    },
+    {
+      "shortName" : "chucknorris",
+      "version" : "0.9.1"
+    },
+    {
+      "shortName" : "token-macro",
+      "version" : "1.12.1"
+    },
+    {
+      "shortName" : "run-condition",
+      "version" : "1.0"
+    },
+    {
+      "shortName" : "email-ext",
+      "version" : "2.40.5"
+    },
+    {
+      "shortName" : "parameterized-trigger",
+      "version" : "2.30"
+    },
+    {
+      "shortName" : "jenkins-multijob-plugin",
+      "version" : "1.20"
+    },
+    {
+      "shortName" : "multiple-scms",
+      "version" : "0.5"
+    },
+    {
+      "shortName" : "project-stats-plugin",
+      "version" : "0.4"
+    },
+    {
+      "shortName" : "sectioned-view",
+      "version" : "1.20"
+    },
+    {
+      "shortName" : "ssh",
+      "version" : "2.4"
+    },
+    {
+      "shortName" : "maven-plugin",
+      "version" : "2.12.1"
+    },
+    {
+      "shortName" : "git-server",
+      "version" : "1.6"
+    },
+    {
+      "shortName" : "dashboard-view",
+      "version" : "2.9.7"
+    },
+    {
+      "shortName" : "antisamy-markup-formatter",
+      "version" : "1.3"
+    },
+    {
+      "shortName" : "workflow-step-api",
+      "version" : "1.12"
+    },
+    {
+      "shortName" : "ace-editor",
+      "version" : "1.0.1"
+    },
+    {
+      "shortName" : "jquery",
+      "version" : "1.11.2-0"
+    },
+    {
+      "shortName" : "translation",
+      "version" : "1.12"
+    },
+    {
+      "shortName" : "ssh-slaves",
+      "version" : "1.10"
+    },
+    {
+      "shortName" : "javadoc",
+      "version" : "1.3"
+    },
+    {
+      "shortName" : "all-changes",
+      "version" : "1.3"
+    },
+    {
+      "shortName" : "workflow-support",
+      "version" : "1.12"
+    },
+    {
+      "shortName" : "junit",
+      "version" : "1.10"
+    },
+    {
+      "shortName" : "pam-auth",
+      "version" : "1.2"
+    },
+    {
+      "shortName" : "matrix-auth",
+      "version" : "1.2"
+    },
+    {
+      "shortName" : "workflow-cps",
+      "version" : "1.12"
+    },
+    {
+      "shortName" : "environment-dashboard",
+      "version" : "1.1.4"
+    },
+    {
+      "shortName" : "workflow-api",
+      "version" : "1.12"
+    },
+    {
+      "shortName" : "cvs",
+      "version" : "2.12"
+    },
+    {
+      "shortName" : "github-api",
+      "version" : "1.71"
+    },
+    {
+      "shortName" : "durable-task",
+      "version" : "1.7"
+    },
+    {
+      "shortName" : "workflow-cps-global-lib",
+      "version" : "1.12"
+    },
+    {
+      "shortName" : "mailer",
+      "version" : "1.16"
+    },
+    {
+      "shortName" : "workflow-durable-task-step",
+      "version" : "1.12"
+    },
+    {
+      "shortName" : "external-monitor-job",
+      "version" : "1.4"
+    },
+    {
+      "shortName" : "scm-api",
+      "version" : "1.0"
+    },
+    {
+      "shortName" : "matrix-project",
+      "version" : "1.6"
+    },
+    {
+      "shortName" : "jquery-detached",
+      "version" : "1.2"
+    },
+    {
+      "shortName" : "git",
+      "version" : "2.4.1"
+    },
+    {
+      "shortName" : "conditional-buildstep",
+      "version" : "1.3.3"
+    },
+    {
+      "shortName" : "greenballs",
+      "version" : "1.15"
+    },
+    {
+      "shortName" : "notification",
+      "version" : "1.10"
+    },
+    {
+      "shortName" : "publish-over-ssh",
+      "version" : "1.13"
+    },
+    {
+      "shortName" : "statusmonitor",
+      "version" : "1.3"
+    }
+  ]
+}
